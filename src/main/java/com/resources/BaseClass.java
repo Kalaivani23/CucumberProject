@@ -172,4 +172,8 @@ public class BaseClass {
 		String title = driver.getTitle();
 		return title;
 	}
+	
+	public static void send() {
+		
+	}
 }
